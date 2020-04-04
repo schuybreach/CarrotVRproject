@@ -1,13 +1,16 @@
 Schuyler Meyer 2018-2020
 
 Spatial Navigation and Foraging Research Project:
-Clarkson University Digital Arts and Sciences Department
-Clarkson University Psychology Department
-Clarkson University Mathematics Department
+> Clarkson University Digital Arts and Sciences Department
+> Clarkson University Psychology Department
+> Clarkson University Mathematics Department
 
 This GitHub Project is being used as a backup for the code created for this project.
 
 "Using virtual reality to study human foraging behavior."
+
+"ReadCSVFromScratch.cs" is the main file, all the others are supporting scripts that have specific tasks.
+While I was the "Lead Developer" and wrote most of the code, this project was (and is) a team effort and we all helped each other out.
 
 From https://www.schuylermeyer.com/portfolio.html#section2 
 Project:
@@ -18,3 +21,4 @@ Project:
 - Models created in Autodesk Maya
 - Textures created in Adobe Photoshop and downloaded from free asset stores
 - Developed for the Oculus Rift platform
+
