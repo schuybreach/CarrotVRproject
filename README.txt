@@ -15,7 +15,8 @@ While I was the "Lead Developer" and wrote most of the code, this project was (a
 From https://www.schuylermeyer.com/portfolio.html
 Project:
 - Lead developer on a research collaboration project with the Clarkson University Psychology Department
-- Designed a virtual environment for test subjects to find carrots in a field
+- Designed a VR environment for researchers to examine and gather data for the behavior and decision strategies made by humans
+- Subjects were tasked with finding carrots in a field
 - Data is both inputted and outputted to and from a CSV file for research team to easily use
 - Project created in Unity / C#
 - Models created in Autodesk Maya
