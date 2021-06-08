@@ -12,7 +12,7 @@ This GitHub Project is being used as a backup for the code created for this proj
 "ReadCSVFromScratch.cs" is the main file, all the others are supporting scripts that have specific tasks.
 While I was the "Lead Developer" and wrote most of the code, this project was (and is) a team effort and we all helped each other out.
 
-From https://www.schuylermeyer.com/portfolio.html#section2 
+From https://www.schuylermeyer.com/portfolio.html
 Project:
 - Lead developer on a research collaboration project with the Clarkson University Psychology Department
 - Designed a virtual environment for test subjects to find carrots in a field
